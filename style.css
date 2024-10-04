@@ -1,0 +1,252 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 20%;
+}
+.title-3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button-1{
+    padding-top: 60px;
+}
+.title-3 p{
+    padding: 0px 300px 0px 300px;
+    text-align: jus;
+}
+.details-1{
+    background: url(img/image.png) center  top no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.offerimg img{
+ width: 95%;
+ 
+    padding: 130px 70px 0px 60px;
+ 
+}
+.offer-text-1{
+    padding-top: 150px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.offer{
+  
+  background: url(img/design.png) center top no-repeat;
+
+  height: 800px;
+
+}
+.bg-success {
+    --bs-bg-opacity: ;
+    
+  }
+  .offer-text-1{
+   padding: 200px 20px 0px 70px; 
+   text-align: justify;
+  }
+  .offer-text{
+    padding: 200px 55px 0px 50px; 
+    text-align: justify;
+  }
+  .offer-2{
+  
+    background: url(img/design.png) center top no-repeat;
+   background-color: rgba(15, 122, 210, 0.523);
+  
+    height: 800px;
+  
+  }
+  .bg-success {
+      --bs-bg-opacity: ;
+      
+    }
+    .offer-2-text-1{
+     padding: 200px 20px 0px 70px; 
+     text-align: justify;
+    }
+    .offer-2-text{
+      padding: 200px 55px 0px 50px; 
+      text-align: justify;
+    }
+    .card-1{
+       background-color: rgb(240, 240, 240);
+       padding:60px 60px 40px 60px;
+       text-align: center;
+       color: rgba(0, 0, 255, 0.573);
+       margin: 30px;
+    }
+    .food-title p{
+        padding: 0px 150px 0px 200px;
+        font-size: 20px;
+    }
+    .food-title h1{
+        font-weight: 400;
+
+    }
+    .card-text h1{
+        padding-top: 10px;
+    }
+    .text-1 h1{
+        padding: 20px 0px 40px 0px;
+    }
+    .card-4 img{
+        float: left;
+    color: white;
+    filter: brightness(0) invert(1);
+    padding-top: 20px;
+    }
+    .card-4{
+        color: white;
+        padding: 30px 0px 0px 0px;
+    }
+.normal{
+    background: url(img/design.png) center top no-repeat;
+    background-color: rgba(15, 122, 210, 0.523);
+    height: 800px;
+   
+}
+.title-4 h1{
+font-weight: 600;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+padding-top: 120px;
+}
+.title-4 p{
+    font-size: 20px;
+    padding: 0px 200px 30px 300px;
+    font-size: 20px;
+}
+
+.card-4 p{
+    padding: 0px 0px 0px 150px;
+}
+.card-4 h1{
+    padding: 0px 0px 0px 80px;
+    margin-left: 70px;
+}
+.dog{
+    background: url(img/design.png) center top no-repeat;
+    background-color: rgba(15, 122, 210, 0.523);
+    height: 800px;
+    
+}
+.dog-title{
+    padding-top: 100px;
+}
+.dog-title h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 60px;
+}
+.dog-title p{
+     font-size: 20px;   
+     padding: 10px 150px 10px  200px;
+}
+
+.dog-1{
+    background: url(img/shape0png.png) center top no-repeat;
+   background-size: cover;
+    overflow: hidden;
+    opacity: 1;
+    padding-top: 20px;
+   
+  
+}
+.details-2 {
+    background: url(img/shape5.png) center top no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center bottom;
+}
+.display p{
+    margin-top: 300px;
+    text-align: end;
+    text-align: center;
+    font-size: 30px;
+padding: 0px 100px 0px 100px;
+}
+.display h1{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.footer-margin {
+    padding: 200px 0px 200px 0px;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.874);
+}
+
+.first-item ul li  {
+    float: inherit;
+    padding-top: 6px;
+    color: rgba(255, 255, 255, 0.79);
+}
+ 
+
+.title-4 p {
+    padding: 30px 150px 0px 0px;
+    text-align: justify;
+    color: rgb(31, 30, 30);
+}
+
+.title-4 h2 {
+    color: rgb(34, 33, 33);
+    font-weight: 400;
+}
+
+.first-item h2 {
+    color: rgb(34, 33, 33);
+    font-weight: 400;
+    padding: 0px 0px 30px 0px;
+}
+
+.footer h2 {
+    color: rgba(255, 255, 255, 0.692);
+}
+.footer p{
+    color: rgba(255, 255, 255, 0.664);
+    padding: 30px 200px 0px 0px;
+    font-size: 20px;
+}
+   .footer-content{
+    color: white;
+   }
+   .nav-inner{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    padding-left: 0px;
+  
+  background-size: cover;
+    
+}
+  
+.nav-item li{
+    padding-left: 40px;
+    margin-top: 38px;
+    float: left;
+    list-style: none;
+    
+ }
+.nav-item li a{
+    font-weight: 600;
+    color: rgb(238, 229, 229);
+    padding-right: 0px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.brand-logo img{
+    padding-right: 250px;
+}
+.container-fluid{
+    background: rgba(77, 77, 247, 0.363);
+}
+
